@@ -1,3 +1,18 @@
+#!/bin/bash
+
+# Arch Linux Commands and shortcut (For Tmux)
+# --------------------------------
+# author    : Aurio Pinto
+#             https://github.com/AurioPinto
+#             http://sourceforge.net/u/AurioPinto
+# Website   : https://www.auriopinto.com.cn/#/
+# project   : https://github.com/AurioPinto/Shell
+#             http://sourceforge.net/projects/Shell/
+# license   : LGPL-3.0 (http://opensource.org/licenses/lgpl-3.0.html)
+#
+# referance : https://wiki.archlinux.org/ 
+
+
 # Set default term to xterm
 set -g default-terminal xterm-256color
 
